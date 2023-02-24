@@ -9,7 +9,7 @@
 
 int main()
 {
-    std::string path = "Resources/test.png";
+    std::string path = "Resources/yamero.jpg";
     cv::Mat img = cv::imread(path);
     cv::imshow("Imagesss", img);
     cv::waitKey(0);
