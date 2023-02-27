@@ -3,7 +3,7 @@ My OpenCV notes.
 
 ## Some Screeenshots
 
-- Normal image, &emsp; &emsp; &emsp; &emsp; &emsp; Gray image,  &emsp; &emsp; &emsp; &emsp; &emsp;   &emsp; &emsp; &emsp; &emsp; &emsp;  Blur image,  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  Canny image
+- Normal image, &emsp; &emsp; &emsp; &emsp; &emsp; Gray image,  &emsp; &emsp; &emsp; &emsp; &emsp;  Blur image, &emsp; &emsp; &emsp; &emsp; &emsp; Canny image
 
 ![image](https://user-images.githubusercontent.com/62032779/221592669-90563c11-936c-40ae-9140-5d5b5b5cfeb3.png)
 
