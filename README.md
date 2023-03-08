@@ -15,9 +15,11 @@ Normal image, &emsp; &emsp; &emsp; &emsp; &emsp; Gray image,  &emsp; &emsp; &ems
 <br> <br> 
 
 * ### [Drawing Shapes and Putting Text](https://github.com/kaanakgundogdu/learning-opencv/tree/main/05-Drawing-Shapes-and-Text/drawingshapesandtext)
+
 <br>
 
 ![image](https://user-images.githubusercontent.com/62032779/221895928-d2739a1d-c399-47fb-9f7a-acded7cd1480.png)
+
 <br> <br> 
 
 * ### [Warp Image](https://github.com/kaanakgundogdu/learning-opencv/tree/main/06-Warp-Images/warpimages)
@@ -33,7 +35,15 @@ Normal image, &emsp; &emsp; &emsp; &emsp; &emsp; Gray image,  &emsp; &emsp; &ems
 
 * ### [Shapes Contour Detection](https://github.com/kaanakgundogdu/learning-opencv/tree/main/08-Shapes-Contour-Detection/shapescontourdetection)
 ![image](https://user-images.githubusercontent.com/62032779/223732797-11372c6d-76e5-46da-ba5a-6ba6d56ce785.png)
+
+<br> <br> 
+
+* ### [Face Detection](https://github.com/kaanakgundogdu/learning-opencv/tree/main/09-Face-Detection/facedetection)
+![image](https://user-images.githubusercontent.com/62032779/223740823-03927641-0c4a-4018-8cfa-ff77f67a2044.png)
+
+
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+
 
 
 ### Source(s):
