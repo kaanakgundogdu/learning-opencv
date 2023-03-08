@@ -29,7 +29,10 @@ Normal image, &emsp; &emsp; &emsp; &emsp; &emsp; Gray image,  &emsp; &emsp; &ems
 * ### [Color Detection](https://github.com/kaanakgundogdu/learning-opencv/tree/main/07-Color-Detection/colordetection)
 ![image](https://user-images.githubusercontent.com/62032779/223713604-c0483a53-50fd-4c4d-aa56-f6fe7d1ff05a.png)
 
+<br> <br> 
 
+* ### [Shapes Contour Detection](https://github.com/kaanakgundogdu/learning-opencv/tree/main/08-Shapes-Contour-Detection/shapescontourdetection)
+![image](https://user-images.githubusercontent.com/62032779/223732797-11372c6d-76e5-46da-ba5a-6ba6d56ce785.png)
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 
 
